@@ -140,7 +140,7 @@ table tr th { color: #688a7e;}
 
 .login-img-body{
 
-  background: url('../img/bg-1.jpg') no-repeat center center fixed;
+  background: url('../img/traveler1.jpeg') no-repeat center center fixed;
 
   -webkit-background-size: cover;
 
@@ -154,7 +154,7 @@ table tr th { color: #688a7e;}
 
 .login-img2-body{
 
-  background: url('../img/bg-1.jpg') no-repeat center center fixed;
+  background: url('../img/traveler1.jpeg') no-repeat center center fixed;
 
   -webkit-background-size: cover;
 
@@ -168,7 +168,7 @@ table tr th { color: #688a7e;}
 
 .login-img3-body{
 
-  background: url('../img/bg-1.jpg') no-repeat center center fixed;
+  background: url('../img/traveler1.jpeg') no-repeat center center fixed;
 
   -webkit-background-size: cover;
 
@@ -4862,7 +4862,7 @@ ul.ft-link li a i {
 
 .profile-widget-img{
 
-    background: url('../img/backgrounds/bg-11-small.jpg') no-repeat !important;
+    background: url('../img/backgrounds/hotel-small.jpg') no-repeat !important;
 
 }
 
@@ -5536,7 +5536,7 @@ ul.ft-link li a i {
 
 .weather-bg-img {
 
-    background: url(../img/backgrounds/bg-14-small.jpg) no-repeat center center;
+    background: url(../img/backgrounds/hotel-small.jpg) no-repeat center center;
 
     color: #fff;
 
